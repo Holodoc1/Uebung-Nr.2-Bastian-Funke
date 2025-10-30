@@ -73,4 +73,10 @@ Wert von j: 10
 Wert von k: 10
 Minimum: 6
 Maximum: 10
+
+Wert von i: 6
+Wert von j: 10
+Wert von k: 6
+Minimum: 6
+Maximum: 10
  */
