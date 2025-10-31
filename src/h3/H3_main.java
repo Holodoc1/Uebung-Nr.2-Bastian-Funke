@@ -35,4 +35,8 @@ Wert von k: 4
 Wert von i: 210
 Wert von j: 1000
 Wert von k: -10
+
+Wert von i: 1000
+Wert von j: 1000
+Wert von k: -10
 */
